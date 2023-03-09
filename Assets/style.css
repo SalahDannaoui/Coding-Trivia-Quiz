@@ -1,0 +1,79 @@
+body{
+    background-image: url("images/background.png");
+    position: relative;
+    height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: fill;
+}
+.Q-card{
+   
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    flex-direction: column;
+}
+
+.timer{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    font-size: 400%;
+    color: red;
+    font-weight: bold;
+}
+.end-screen{
+    
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+    height: 500px;
+}
+
+.highscore{
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;  
+}
+
+.start-title {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 500px;
+    flex-direction: column;   
+    font-size: 300%;
+}
+
+.answerbuttons {
+    display: flex;
+    flex-direction: column;  
+}
+.hs-list {
+    padding: 0;
+}
+
+body {
+    height: 100%;
+    color: white;
+}
+html{
+    height: 100%;
+}
+
+.answerbuttons button {
+    height: 55px;
+}
