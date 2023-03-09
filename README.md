@@ -3,7 +3,7 @@
 ## This project enables a user to undertake a quiz on Coding.
 It was also beneficial for learning how to utilise APIs within JavaScript.
 
-## Link to Project: 
+## Link to Project:  https://salahdannaoui.github.io/Coding-Trivia-Quiz/
 
 ## Installation
 
